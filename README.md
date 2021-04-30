@@ -4,7 +4,6 @@
 Skills: REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with every one 
 - 🤔 I’m looking for help with a good learning environment 
 - 🥅 2021 Goals: Explore more Javascript and completed minimum 10 project 
 - 💬 Ask me about what you want to know 
