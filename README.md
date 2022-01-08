@@ -5,7 +5,7 @@ Skills: REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning everything 
 - 🤔 I’m looking for help with a good learning environment 
-- 🥅 2021 Goals: Explore more Javascript and completed minimum 10 project 
+- 🥅 2022 Goals: Explore more Javascript and TypeScript 
 - 💬 Ask me about what you want to know 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ataur39n/), and other social media 
 - ⚡ Hobby : Coding , coding ,coding ................
