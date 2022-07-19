@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ataur.
 #### A Frontend Web Developer
 
-Skills: REACT / JS / HTML / CSS
+Skills: JAVASCRIPT | REACT | NEXTJS | NODEJS | {EXPRESS.JS + ADDONIS.JS} + SOCKET.IO
 
 - 🌱 I’m currently learning everything 
 - 🤔 I’m looking for help with a good learning environment 
